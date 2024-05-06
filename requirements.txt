@@ -7,3 +7,4 @@ faiss-cpu
 langchain
 python-dotenv
 langchainhub
+gunicorn

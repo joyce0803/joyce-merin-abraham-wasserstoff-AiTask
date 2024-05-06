@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, jsonify
+from flask_cors import CORS
 from datetime import datetime, timedelta
 import json
 import os
@@ -17,6 +18,7 @@ import uuid
 
 app = Flask(__name__)
 app.secret_key = '192b9bdd22ab9ed4d12e236c78afc'
+CORS(app)
 load_dotenv()
 
 api_key = os.getenv('GOOGLE_API_KEY')
