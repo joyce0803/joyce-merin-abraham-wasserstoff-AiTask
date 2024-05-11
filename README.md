@@ -3,7 +3,9 @@
 ### Setup Guidlines
 
 1) Access to Wordpress site deployed on Netlify : ( https://663f5b939f93dbd6ae3e237a--musical-concha-221011.netlify.app/ )
-OR
+   
+### OR
+
 2) Access to my WordPress Site on Local : ( https://typical-hands.localsite.io/)
 3) Access to Username and Password  when site is accessed:
  Username : ground
