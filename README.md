@@ -8,6 +8,7 @@
 
 2) Access to my WordPress Site on Local : ( https://typical-hands.localsite.io/)
 3) Access to Username and Password  when Local Wordpress site is accessed:
+   
  Username : ground
  Password : protective
 
